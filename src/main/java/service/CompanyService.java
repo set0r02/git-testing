@@ -2,4 +2,5 @@ package service;
 
 public class CompanyService {
   private String companyName;
+  private String companyBorn;
 }
